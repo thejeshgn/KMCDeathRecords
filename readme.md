@@ -1,6 +1,8 @@
 # KMDC Death Records
 
-Source: https://www.kmcgov.in/KMCPortal/KMCDeathRegistrationAction.do
+Source: [Kolkata Municipal Corporation - Death Registration Details](https://www.kmcgov.in/KMCPortal/jsp/KMCDeathRecordSearch.jsp)
+
+Code is under GNU GPL V3.
 
 # Setup
 Install dependencies in `requirements.txt`
@@ -30,4 +32,6 @@ START_DATE = date(2010, 1, 1)
 END_DATE = date(2021, 5, 15)
 ```
 inside `data` folder. It also has zipped csv for convience.
+
+
 
