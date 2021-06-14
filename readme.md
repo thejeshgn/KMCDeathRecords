@@ -4,6 +4,11 @@ Source: [Kolkata Municipal Corporation - Death Registration Details](https://www
 
 Code is under GNU GPL V3.
 
+# Credit
+You can credit `Thejesh GN - https://thejeshgn.com`
+
+
+
 # Setup
 Install dependencies in `requirements.txt`
 
