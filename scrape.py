@@ -7,7 +7,7 @@ from datetime import date, timedelta
 
 url = "https://www.kmcgov.in/KMCPortal/KMCDeathRegistrationAction.do"
 START_DATE = date(2010, 1, 1)
-END_DATE = date(2021, 5, 15)
+END_DATE = date(2021, 6, 11)
 RESTRT_DELAY = 60
 REQUEST_DELAY = 2
 name_patern = "%%%"
